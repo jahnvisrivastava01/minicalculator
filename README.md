@@ -4,7 +4,7 @@ A sleek and responsive calculator built using **HTML, CSS, and JavaScript** with
 
 ---
 
-## 🚀 Live Features
+## 🚀 Features
 
 ✅ Perform basic arithmetic operations
 ✅ Responsive calculator layout
@@ -30,6 +30,7 @@ minicalculator/
 ├── index.html
 ├── calculator.css
 ├── calculator.js
+└── README.md
 ```
 
 ---
