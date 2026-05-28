@@ -58,7 +58,7 @@ cd minicalculator
 Simply open:
 
 ```bash
-index.html
+calculator.html
 ```
 
 in your browser.
