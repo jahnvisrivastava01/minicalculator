@@ -27,7 +27,7 @@ A sleek and responsive calculator built using **HTML, CSS, and JavaScript** with
 ```bash
 minicalculator/
 │
-├── index.html
+├── calculator.html
 ├── calculator.css
 ├── calculator.js
 └── README.md
